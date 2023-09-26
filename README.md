@@ -29,4 +29,6 @@ Mythril is a security analysis tool for EVM bytecode. It detects security vulner
 https://github.com/muellerberndt/awesome-mythx-smart-contract-security-tools
 MythX is a smart contract security analysis API that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses static analysis, symbolic execution and input fuzzing to detect security bugs and verify the correctness of smart contract code.
 
-5) 
+4) SmartCheck
+5) Oyente
+6) ContractFuzzer
