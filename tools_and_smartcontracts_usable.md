@@ -21,3 +21,6 @@
 
    you must make your smartcontract to inherit from ReentrancyGuard
    so YourSmartContract is ReentrancyGuard 
+2. Arithmetic Overflow and Underflow only in version 0.6 and 0.7 
+notice that in 0.8 and above this vulnerability is covered. Now it throws error.
+3. 
