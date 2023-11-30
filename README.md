@@ -32,3 +32,8 @@ MythX is a smart contract security analysis API that supports Ethereum, Quorum, 
 4) SmartCheck
 5) Oyente
 6) ContractFuzzer
+
+7) Echidna https://github.com/crytic/echidna this is quite new security tool 
+Echidna—which also happens to be the name of our EVM property-based fuzz tester.
+It is compatible with Truffle
+It is avaiable under Linux Windows and MacOS
